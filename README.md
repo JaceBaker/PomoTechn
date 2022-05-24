@@ -9,6 +9,3 @@ Python script for time management
 
 ### Game - Break Timer
 ![](GUI/image_pomodoro_3.JPG)
-
-### Game - Long Break Timer
-![](GUI/image_pomodoro_4.JPG)
